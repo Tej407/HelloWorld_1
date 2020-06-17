@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C46A-946A
+
+ Directory of C:\Users\Teju\Desktop\Pyproject1
+
+17-06-2020  19:43    <DIR>          .
+17-06-2020  19:43    <DIR>          ..
+17-06-2020  19:43                 0 f1.txt
+17-06-2020  17:04                55 hello.py
+17-06-2020  19:29               391 readme.txt
+               3 File(s)            446 bytes
+               2 Dir(s)  86,388,248,576 bytes free
