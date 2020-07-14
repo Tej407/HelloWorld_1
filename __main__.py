@@ -8,5 +8,6 @@ i=1
 while i==1:
     for file in script_files:
         os.system('python %s'%file)
+        break
     i+=1
     
